@@ -1,0 +1,19 @@
+Core Web Framework
+
+streamlit
+
+Data Processing and Visualisation
+
+pandas
+plotly
+
+AI and Agent Orchestration
+
+langchain-core
+langchain-google-genai
+langgraph
+python-dotenv
+
+Database
+
+(sqlite3 is built into Python, no entry needed)
